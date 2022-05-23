@@ -1,6 +1,6 @@
 {
   "name": "@u4ic/nestjs-redoc",
-  "version": "2.3.0",
+  "version": "2.2.3",
   "description": "NestJS ReDoc frontend",
   "repository": "https://github.com/euphoricsystems/nestjs-redoc",
   "author": "Chris Young",
