@@ -14,7 +14,7 @@ jobs:
     runs-on: 'ubuntu-latest'
     steps:
       - name: get pr information
-        uses: actions/github-script@v4
+        uses: actions/github-script@v7
         id: pr
         with:
           script: |
